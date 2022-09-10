@@ -1,0 +1,7 @@
+D:\GitHub\My_Interface\InterFace\InterFace\bin\Debug\InterFace.exe.config
+D:\GitHub\My_Interface\bin\Debug\InterFace.exe.config
+D:\GitHub\My_Interface\bin\Debug\InterFace.exe
+D:\GitHub\My_Interface\bin\Debug\InterFace.pdb
+D:\GitHub\My_Interface\obj\Debug\InterFace.csprojResolveAssemblyReference.cache
+D:\GitHub\My_Interface\obj\Debug\InterFace.exe
+D:\GitHub\My_Interface\obj\Debug\InterFace.pdb
